@@ -1,12 +1,24 @@
 $(document).ready(function() {
-  $('#prestations').click(function() {
-    //Grab the "href" attribute of the anchor
-    var anchor = $(this).attr('href');
+  // On cache les sous-menus :
+  $(".sous").hide();
+  // On sélectionne tous les items de liste portant la classe "toggleSubMenu"
 
-    //If you want to hide
-    $(anchor).hide();
+  // On modifie l'évènement "click" sur les liens dans les items de liste
+  // qui portent la classe "toggleSubMenu" :
+  $("#prestations").click(function() {
 
-    //Uncomment if you want to show
-    //$(anchor).show();
+    // Si le sous-menu était déjà ouvert, on le referme :
+    if ($(this).next(".sous").length != 0) {
+      $(this).next(".sous").slideUp("normal");
+    }
+
+    // Si le sous-menu est caché, on ferme les autres et on l'affiche :
+    else {
+      $(".sous").slideUp("normal");
+      $(this).next(".sous").slideDown("normal");
+    }
+
+    // On empêche le navigateur de suivre le lien :
+    return false;
   });
 });
