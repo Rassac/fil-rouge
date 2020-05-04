@@ -14,7 +14,9 @@ header {
   margin: 0 auto;
   height: 15vh;
   align-items: center;
-  border-bottom: 1px solid #64F7A0;
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+  background-color: rgba(255, 255, 255, 0.72);
 }
 
 .logo-container,
