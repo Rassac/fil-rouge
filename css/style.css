@@ -56,6 +56,11 @@ nav {
   list-style-type: none;
   position: absolute;
   text-decoration: none;
+  display: none;
+}
+
+.sousshow {
+  display: block;
 }
 
 #sous li a {

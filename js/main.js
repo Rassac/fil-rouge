@@ -1,10 +1,7 @@
 $(document).ready(function() {
-  // On cache les sous - menus:
-  $("#sous").hide();
+  // $('#sous').hide();
 
-  $("#prestations").click(function() {
-    $(.sous).show();
+  $('#prestations').click(function() {
+    $('#sous').show();
   });
-
 });
-};
