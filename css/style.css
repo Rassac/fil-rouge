@@ -48,11 +48,10 @@ nav {
   text-decoration: none;
 }
 
-#prestations::after {
+/* #prestations::after {
   content: " ▼";
   font-size: 11px;
-}
-
+} */
 #sous {
   list-style-type: none;
   position: absolute;
@@ -71,4 +70,9 @@ nav {
 
 .social a {
   color: black;
+}
+
+main {
+  width: 75vw;
+  margin: 0 auto;
 }
