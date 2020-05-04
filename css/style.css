@@ -53,8 +53,15 @@ nav {
   font-size: 11px;
 }
 
-.sous {
+#sous {
   list-style-type: none;
+  position: absolute;
+  text-decoration: none;
+}
+
+#sous li a {
+  text-decoration: none;
+  color: black;
 }
 
 .social {
