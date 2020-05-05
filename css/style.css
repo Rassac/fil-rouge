@@ -59,7 +59,12 @@ nav {
   list-style-type: none;
   position: absolute;
   text-decoration: none;
-  display: none;
+  padding: 2rem;
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+  background-color: rgba(255, 255, 255, 0.72);
+  border-radius: 10px;
+  border: 2px solid black;
 }
 
 .sousshow {
