@@ -10,6 +10,7 @@ body {
 
 :root {
   --main-color: #B817B8;
+  --color-green: #33EB67;
 }
 
 header {
@@ -54,10 +55,6 @@ nav {
   text-decoration: none;
 }
 
-/* #prestations::after {
-  content: " ▼";
-  font-size: 11px;
-} */
 #sous {
   list-style-type: none;
   position: absolute;
@@ -97,16 +94,83 @@ nav {
 .nous-vous-securisons {
   color: #fff;
   flex: 1;
-  margin-top: 50vh;
+  margin-top: 40vh;
   margin-left: 10vw;
+  text-align: justify;
+}
+
+.nous-vous-securisons h1 {
+  padding-bottom: 4rem;
 }
 
 .nous-vous-securisons_btn {
   color: #fff;
   flex: 1;
+  margin-top: 50vh;
+  justify-content: center;
+  text-align: center;
+}
+
+.nous-vous-securisons_btn button {
+  background: none;
+  color: white;
+  padding: 2rem 3rem;
+  border: 3px solid var(--color-green);
+  font-size: 1.25rem;
+  cursor: pointer;
+}
+
+.nous-vous-securisons_btn a {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 main {
   width: 75vw;
-  margin: auto;
+  margin: 0 auto;
+}
+
+.ce-que-nous-faisons {
+  display: flex;
+  height: 50vh;
+}
+
+.ce-que-nous-faisons_gauche {
+  flex: 1;
+  padding: 5rem 0;
+  text-align: justify;
+}
+
+.ce-que-nous-faisons_droite {
+  flex: 1;
+  display: flex;
+  text-align: center;
+}
+
+.ce-que-nous-faisons_droite button {
+  background: none;
+  padding: .25rem 2rem;
+  border: 3px solid var(--main-color);
+  font-size: 1.25rem;
+  cursor: pointer;
+  margin-left: 2rem;
+}
+
+.ce-que-nous-faisons_droite button a {
+  color: black;
+  text-decoration: none;
+}
+
+footer {
+  height: 15vh;
+  background: black;
+  color: #fff;
+  line-height: 15vh;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  color: #fff;
 }
