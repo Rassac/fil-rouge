@@ -8,15 +8,20 @@ body {
   font-family: sans-serif;
 }
 
+:root {
+  --main-color: #B817B8;
+}
+
 header {
   display: flex;
-  width: 75%;
+  width: 100%;
   margin: 0 auto;
-  height: 15vh;
+  height: 75px;
   align-items: center;
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
   background-color: rgba(255, 255, 255, 0.72);
+  position: fixed;
 }
 
 .logo-container,
@@ -27,6 +32,7 @@ header {
 
 .logo-container {
   flex: 1;
+  justify-content: space-around;
 }
 
 .logo-container img {
@@ -75,6 +81,29 @@ nav {
 
 .social a {
   color: black;
+}
+
+.fond-accueil {
+  display: flex;
+  height: 100vh;
+  background-color: var(--main-color);
+  background-image: url(../img/fond-terre.jpg);
+  background-blend-mode: multiply;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
+
+.nous-vous-securisons {
+  color: #fff;
+  flex: 1;
+  margin-top: 50vh;
+  margin-left: 10vw;
+}
+
+.nous-vous-securisons_btn {
+  color: #fff;
+  flex: 1;
 }
 
 main {
