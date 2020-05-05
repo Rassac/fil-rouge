@@ -59,12 +59,11 @@ nav {
   list-style-type: none;
   position: absolute;
   text-decoration: none;
-  padding: 2rem;
+  padding: 1rem;
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
   background-color: rgba(255, 255, 255, 0.72);
-  border-radius: 10px;
-  border: 2px solid black;
+  border-radius: 5px;
 }
 
 .sousshow {
@@ -138,7 +137,7 @@ main {
 
 .ce-que-nous-faisons {
   display: flex;
-  height: 50vh;
+  height: 20rem;
 }
 
 .ce-que-nous-faisons_gauche {
@@ -147,24 +146,29 @@ main {
   text-align: justify;
 }
 
+.ce-que-nous-faisons_gauche h1 {
+  padding-bottom: 2rem;
+}
+
 .ce-que-nous-faisons_droite {
   flex: 1;
-  display: flex;
   text-align: center;
 }
 
 .ce-que-nous-faisons_droite button {
   background: none;
-  padding: .25rem 2rem;
   border: 3px solid var(--main-color);
-  font-size: 1.25rem;
+  font-size: 1rem;
   cursor: pointer;
-  margin-left: 2rem;
+  height: 5rem;
+  width: 75%;
+  margin-top: 3rem;
 }
 
 .ce-que-nous-faisons_droite button a {
   color: black;
   text-decoration: none;
+  text-align: center;
 }
 
 footer {

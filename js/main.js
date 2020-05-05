@@ -12,6 +12,6 @@ $(document).ready(function() {
       ouvert = true;
     }
 
-    console.log('ici');
+    // console.log('ici');
   });
 });

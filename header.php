@@ -1,0 +1,23 @@
+<header>
+  <div class="logo-container">
+    <img src="img/logo.png" alt="logo">
+  </div>
+  <nav>
+    <ul class="nav-links">
+      <li><a href="#" class="nav-link">À propos</a></li>
+      <li><a href="#" class="nav-link deroulant">Prestations <i class="fa fa-caret-down" id="prestations" style=" font-size:19px"></i></a>
+        <ul id="sous">
+          <li><a href="#">Pack professionnel </a></li>
+          <li><a href="#">Pack particulier</a></li>
+        </ul>
+      </li>
+      <li><a href="#" class="nav-link">Blogs</a></li>
+      <li><a href="#" class="nav-link">Contact</a></li>
+    </ul>
+  </nav>
+  <div class="social">
+    <a href="#"><i class="fa fa-facebook" style="font-size:24px"></i></a>
+    <a href="#"><i class="fa fa-instagram" style="font-size:24px"></i></a>
+    <a href="#"><i class="fa fa-telegram" style="font-size:24px"></i></a>
+  </div>
+</header>
