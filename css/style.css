@@ -144,7 +144,7 @@ nav {
   background-color: rgba(255, 255, 255, 0.25);
   color: white;
   padding: 2rem 3rem;
-  border: 3px solid var(--color-green);
+  border: 2.75px solid var(--color-green);
   font-size: 1.25rem;
   cursor: pointer;
 }
