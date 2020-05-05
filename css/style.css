@@ -14,6 +14,7 @@ body {
 }
 
 header {
+  z-index: 1;
   display: flex;
   width: 100%;
   margin: 0 auto;
@@ -95,15 +96,37 @@ nav {
   color: white;
 }
 
+.fond-about {
+  display: flex;
+  height: 100vh;
+  background-color: var(--main-color);
+  background-image: url(../img/capuche.jpg);
+  background-blend-mode: multiply;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
+
 .nous-vous-securisons {
   color: #fff;
   flex: 1;
-  margin-top: 40vh;
+  margin-top: 50vh;
   margin-left: 10vw;
   text-align: justify;
 }
 
+.about-us {
+  color: #fff;
+  width: 50%;
+  margin-top: 50vh;
+  margin-left: 10vw;
+}
+
 .nous-vous-securisons h1 {
+  padding-bottom: 4rem;
+}
+
+.about-us h1 {
   padding-bottom: 4rem;
 }
 
@@ -116,7 +139,9 @@ nav {
 }
 
 .nous-vous-securisons_btn button {
-  background: none;
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+  background-color: rgba(255, 255, 255, 0.25);
   color: white;
   padding: 2rem 3rem;
   border: 3px solid var(--color-green);
@@ -144,6 +169,29 @@ main {
   flex: 1;
   padding: 5rem 0;
   text-align: justify;
+}
+
+.about-section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.about-div {
+  width: 50%;
+  padding: 5rem 0;
+  text-align: justify;
+}
+
+.about-div h1 {
+  padding-bottom: 2rem;
+}
+
+.about-div p, .about-div ul {
+  width: 90%;
+}
+
+.about-div li {
+  padding: .5rem;
 }
 
 .ce-que-nous-faisons_gauche h1 {
