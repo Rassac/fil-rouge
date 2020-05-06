@@ -12,7 +12,7 @@
         </ul>
       </li>
       <!-- <li><a href="#" class="nav-link">Blogs</a></li> -->
-      <li><a href="#" class="nav-link">Contact</a></li>
+      <li><a href="contact.php" class="nav-link">Contact</a></li>
     </ul>
   </nav>
   <div class="social">
