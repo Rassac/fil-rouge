@@ -377,9 +377,8 @@ footer a {
 @media only screen and (max-width: 579px) {
   .fond-accueil {
     flex-wrap: wrap;
+    background-size: auto;
   }
-
-  .nous-vous-securisons {}
 
   .ce-que-nous-faisons {
     display: flex;
