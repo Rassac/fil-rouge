@@ -162,7 +162,6 @@ main {
 
 .ce-que-nous-faisons {
   display: flex;
-  height: 20rem;
 }
 
 .ce-que-nous-faisons_gauche {
@@ -315,4 +314,87 @@ footer {
 footer a {
   text-decoration: none;
   color: #fff;
+}
+
+@media only screen and (max-width: 937px) {
+  .fond-accueil {
+    height: 50vh;
+    background-size: contain;
+  }
+
+  .nous-vous-securisons {
+    width: 100%;
+    text-align: left;
+    margin-top: 15vh;
+  }
+
+  .nous-vous-securisons_btn {
+    width: 100%;
+    margin-top: 25vh;
+  }
+
+  .ce-que-nous-faisons {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .ce-que-nous-faisons_gauche {
+    width: 100%;
+  }
+
+  .ce-que-nous-faisons_droite {
+    width: 100%;
+    padding-top: 4rem;
+  }
+
+  .fond-about {
+    height: 50vh;
+    background-size: 103%;
+  }
+
+  .about-us {
+    color: #fff;
+    width: 50%;
+    margin-top: 15vh;
+    margin-left: 10vw;
+  }
+
+  .about-div {
+    text-align: left;
+  }
+
+  .contact {
+    height: 88.7vh;
+    padding-top: 20rem;
+  }
+
+  footer {
+    height: 11.3vh;
+    line-height: 11.3vh;
+  }
+}
+
+@media only screen and (max-width: 579px) {
+  .fond-accueil {
+    flex-wrap: wrap;
+  }
+
+  .nous-vous-securisons {}
+
+  .ce-que-nous-faisons {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .ce-que-nous-faisons_gauche {
+    width: 100%;
+    flex: none;
+    padding: 5rem 0 0 0;
+  }
+
+  .ce-que-nous-faisons_droite {
+    width: 100%;
+    flex: none;
+    padding: 0 0 5rem 0;
+  }
 }
