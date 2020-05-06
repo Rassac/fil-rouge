@@ -19,7 +19,7 @@
       <p>Personne ne devrait sacrifier sa vie privée. Nous devrions tous être protégés de la surveillance électronique et de l'interception de données qui profitent à quelques entreprises. Nous ferons de notre mieux pour assurer leur sécurité.</p>
     </div>
     <div class="nous-vous-securisons_btn">
-      <button><a href="#">EN SAVOIR PLUS</a></button>
+      <button><a href="about.php">EN SAVOIR PLUS</a></button>
     </div>
   </div>
 
