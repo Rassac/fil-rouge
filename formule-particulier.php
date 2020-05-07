@@ -8,7 +8,7 @@
   <meta name="description" content="La première entreprise de sécurisation des données informatique pour tous."/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/style.css">
-  <title>TCOMPUTING - ACCUEIL</title>
+  <title>TCOMPUTING - FORMULE PROFESSIONNEL</title>
 </head>
 
 <body>
@@ -24,7 +24,12 @@
   </div>
 
   <main>
-    
+    <section class="section-particulier">
+      <div class="div-particulier">
+        <div class="div-img"></div>
+        <div class="div-contenu"></div>
+      </div>
+    </section>
   </main>
   <?php include 'inc/footer.php'; ?>
 
