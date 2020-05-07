@@ -17,7 +17,7 @@
     <div class="nous-vous-securisons">
       <h1>NOUS VOUS SÉCURISIONS</h1><br>
       <p>Aujourd'hui, la cybersécurité doit anticiper toutes les utilisations en entreprise dans le cadre de la démocratisation des nouvelles technologies.</p><br>
-      <p>Personne ne devrait sacrifier sa vie privée. Nous devrions tous être protégés de la surveillance électronique et de l'interception de données qui profitent à quelques entreprises. Nous ferons de notre mieux pour assurer leur sécurité.</p>
+      <p>Personne ne devrait sacrifier sa vie privée. Nous devrions tous être protégés de la surveillance électronique et de l'interception de données qui profitent à quelques entreprises. Nous ferons de notre mieux pour assurer votre sécurité.</p>
     </div>
     <div class="nous-vous-securisons_btn">
       <button><a href="about.php">EN SAVOIR PLUS</a></button>
