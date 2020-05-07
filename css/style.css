@@ -415,7 +415,7 @@ footer a {
   .fa-facebook,
   .fa-instagram,
   .fa-telegram {
-    /* display: none; */
+    display: none;
   }
 
   #btn-menu-burger {
