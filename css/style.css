@@ -32,6 +32,10 @@ header {
   display: flex;
 }
 
+.fa-reorder {
+  display: none;
+}
+
 .logo-container {
   flex: 1;
   justify-content: space-around;
