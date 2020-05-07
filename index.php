@@ -15,7 +15,7 @@
   <?php include 'inc/header.php'; ?>
   <div class="fond-accueil">
     <div class="nous-vous-securisons">
-      <h1>NOUS VOUS SÉCURISIONS</h1><br>
+      <h1>NOUS VOUS SÉCURISONS</h1><br>
       <p>Aujourd'hui, la cybersécurité doit anticiper toutes les utilisations en entreprise dans le cadre de la démocratisation des nouvelles technologies.</p><br>
       <p>Personne ne devrait sacrifier sa vie privée. Nous devrions tous être protégés de la surveillance électronique et de l'interception de données qui profitent à quelques entreprises. Nous ferons de notre mieux pour assurer votre sécurité.</p>
     </div>

@@ -9,8 +9,8 @@ body {
 }
 
 :root {
-  --main-color: #32C5FF;
-  --color-green: #33EB67;
+  --main-color: #32c5ff;
+  --color-green: #33eb67;
 }
 
 header {
@@ -189,12 +189,13 @@ main {
   padding-bottom: 2rem;
 }
 
-.about-div p, .about-div ul {
+.about-div p,
+.about-div ul {
   width: 90%;
 }
 
 .about-div li {
-  padding: .5rem;
+  padding: 0.5rem;
 }
 
 .ce-que-nous-faisons_gauche h1 {
@@ -214,7 +215,7 @@ main {
   height: 5rem;
   width: 75%;
   margin-top: 3rem;
-  transition: .25s;
+  transition: 0.25s;
 }
 
 .ce-que-nous-faisons_droite button:hover {
@@ -256,14 +257,16 @@ main {
   color: red;
 }
 
-.form-style input[type=submit], .form-style input[type=reset] {
+.form-style input[type="submit"],
+.form-style input[type="reset"] {
   border: 2px solid var(--main-color);
   padding: 8px 15px 8px 15px;
   background: none;
-  transition: .2s;
+  transition: 0.2s;
 }
 
-.form-style input[type=submit]:hover, .form-style input[type=reset]:hover {
+.form-style input[type="submit"]:hover,
+.form-style input[type="reset"]:hover {
   border: var(--main-color);
   box-shadow: none;
   -moz-box-shadow: none;
@@ -274,19 +277,19 @@ main {
   height: 100px;
 }
 
-.form-style input[type=text],
-.form-style input[type=email],
+.form-style input[type="text"],
+.form-style input[type="email"],
 textarea {
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  border: 1px solid #BEBEBE;
+  border: 1px solid #bebebe;
   padding: 7px;
   margin: 0px;
-  -webkit-transition: all 0.30s ease-in-out;
-  -moz-transition: all 0.30s ease-in-out;
-  -ms-transition: all 0.30s ease-in-out;
-  -o-transition: all 0.30s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
   outline: none;
 }
 
@@ -294,8 +297,8 @@ textarea {
   width: 100%;
 }
 
-.form-style input[type=text]:focus,
-.form-style input[type=email]:focus,
+.form-style input[type="text"]:focus,
+.form-style input[type="email"]:focus,
 .form-style textarea:focus {
   -moz-box-shadow: 0 0 8px var(--main-color);
   -webkit-box-shadow: 0 0 8px var(--main-color);
@@ -304,8 +307,8 @@ textarea {
 }
 
 .error {
-  color: #D8000C;
-  background-color: #FFBABA;
+  color: #d8000c;
+  background-color: #ffbaba;
 }
 
 footer {
@@ -409,8 +412,10 @@ footer a {
     flex: 0;
   }
 
-  .fa-facebook, .fa-instagram, .fa-telegram {
-    display: none;
+  .fa-facebook,
+  .fa-instagram,
+  .fa-telegram {
+    /* display: none; */
   }
 
   #btn-menu-burger {
@@ -449,7 +454,8 @@ footer a {
     text-align: left;
   }
 
-  .about-div p, .about-div ul {
+  .about-div p,
+  .about-div ul {
     width: 100%;
   }
 
