@@ -32,7 +32,7 @@ header {
   display: flex;
 }
 
-.fa-reorder {
+#btn-menu-burger {
   display: none;
 }
 
@@ -411,6 +411,10 @@ footer a {
 
   .fa-facebook, .fa-instagram, .fa-telegram {
     display: none;
+  }
+
+  #btn-menu-burger {
+    display: block;
   }
 
   .social {
