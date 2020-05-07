@@ -255,11 +255,12 @@ main {
 .form-style input[type=submit], .form-style input[type=reset] {
   border: 2px solid var(--main-color);
   padding: 8px 15px 8px 15px;
+  background: none;
   transition: .2s;
 }
 
 .form-style input[type=submit]:hover, .form-style input[type=reset]:hover {
-  background: var(--main-color);
+  border: var(--main-color);
   box-shadow: none;
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
@@ -316,21 +317,30 @@ footer a {
   color: #fff;
 }
 
-@media only screen and (max-width: 937px) {
+@media only screen and (max-width: 768px) {
   .fond-accueil {
-    height: 50vh;
-    background-size: contain;
+    height: 100vh;
+    background-size: cover;
+    flex-wrap: wrap;
   }
 
   .nous-vous-securisons {
     width: 100%;
     text-align: left;
-    margin-top: 15vh;
+    margin-top: 25vh;
+    margin-left: 13vw;
+    flex: none;
+    width: 75%;
+  }
+
+  .nous-vous-securisons p {
+    text-align: justify;
   }
 
   .nous-vous-securisons_btn {
     width: 100%;
-    margin-top: 25vh;
+    margin-top: 1rem;
+    flex: none;
   }
 
   .ce-que-nous-faisons {
@@ -338,24 +348,32 @@ footer a {
     flex-wrap: wrap;
   }
 
+  .ce-que-nous-faisons p {
+    text-align: justify;
+  }
+
   .ce-que-nous-faisons_gauche {
     width: 100%;
+    text-align: left;
+    padding: 5rem 0 0 0;
+    flex: none;
   }
 
   .ce-que-nous-faisons_droite {
     width: 100%;
-    padding-top: 4rem;
+    flex: none;
+    padding: 0 0 5rem 0;
   }
 
   .fond-about {
-    height: 50vh;
-    background-size: 103%;
+    height: 100vh;
+    background-size: cover;
   }
 
   .about-us {
     color: #fff;
     width: 50%;
-    margin-top: 15vh;
+    margin-top: 35vh;
     margin-left: 10vw;
   }
 
@@ -363,37 +381,102 @@ footer a {
     text-align: left;
   }
 
+  .about-div p {
+    text-align: justify;
+  }
+
   .contact {
-    height: 88.7vh;
-    padding-top: 20rem;
+    height: 90vh;
   }
 
   footer {
-    height: 11.3vh;
-    line-height: 11.3vh;
+    height: 10vh;
+    line-height: 10vh;
   }
 }
 
-@media only screen and (max-width: 579px) {
-  .fond-accueil {
+@media only screen and (max-width: 425px) {
+  p {
+    font-size: 14px;
+  }
+
+  .nav-link {
+    display: none;
+    flex: 0;
+  }
+
+  .fa-facebook, .fa-instagram, .fa-telegram {
+    display: none;
+  }
+
+  .social {
+    flex: 2;
+  }
+
+  .logo-container {
+    text-align: center;
+    flex: 2;
+    padding-left: 11rem;
+  }
+
+  .about-us {
+    color: #fff;
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 25vh;
+    margin-left: 10vw;
+  }
+
+  .about-us p {
+    text-align: justify;
+  }
+
+  .about-section {
     flex-wrap: wrap;
-    background-size: auto;
   }
 
-  .ce-que-nous-faisons {
-    display: flex;
-    flex-wrap: wrap;
-  }
-
-  .ce-que-nous-faisons_gauche {
+  .about-div {
     width: 100%;
-    flex: none;
-    padding: 5rem 0 0 0;
+    padding: 2.5rem 0;
+    text-align: left;
   }
 
-  .ce-que-nous-faisons_droite {
+  .about-div p, .about-div ul {
     width: 100%;
-    flex: none;
-    padding: 0 0 5rem 0;
+  }
+
+  main {
+    width: 85%;
+    margin: auto;
+  }
+
+  .contact {
+    width: 100%;
+    margin: auto;
+  }
+
+  .form-style {
+    padding: 0px;
+    width: 100%;
+  }
+
+  footer {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .logo-container {
+    padding-left: 9.75rem;
+  }
+
+  .nous-vous-securisons {
+    margin-top: 17vh;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .logo-container {
+    padding-left: 8rem;
   }
 }
