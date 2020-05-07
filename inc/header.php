@@ -9,7 +9,7 @@
       <li><a href="#" class="nav-link deroulant">Prestations <i class="fa fa-caret-down" id="prestations" style=" font-size:19px"></i></a>
         <ul id="sous">
           <li><a href="#">Pack professionnel </a></li>
-          <li><a href="#">Pack particulier</a></li>
+          <li><a href="formule-particulier.php">Pack particulier</a></li>
         </ul>
       </li>
       <!-- <li><a href="#" class="nav-link">Blogs</a></li> -->

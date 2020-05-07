@@ -311,6 +311,42 @@ textarea {
   background-color: #ffbaba;
 }
 
+.fond-particulier {
+  display: flex;
+  height: 100vh;
+  background-color: var(--main-color);
+  background-image: url(../img/external.jpg);
+  background-blend-mode: multiply;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
+
+.formule-particulier {
+  color: #fff;
+  flex: 1;
+  margin-top: 50vh;
+  margin-left: 10vw;
+  text-align: justify;
+}
+
+.formule-particulier h1 {
+  margin-bottom: 2rem;
+}
+
+.formule-particulier-btn {
+  color: #fff;
+  flex: 1;
+  margin-top: 50vh;
+  justify-content: center;
+  text-align: center;
+  height: 10rem;
+}
+
+.formule-particulier-btn img {
+  height: 100%;
+}
+
 footer {
   height: 15vh;
   background: black;
