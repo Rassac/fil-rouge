@@ -1,6 +1,6 @@
 <header>
   <div class="logo-container">
-    <a href="index.php"><img src="img/logo-long.svg" alt="logo"></a>
+    <a href="index.php"><img src="img/logo-long.png" alt="logo"></a>
   </div>
   <nav>
     <ul class="nav-links">
@@ -8,7 +8,7 @@
       <li><a href="about.php" class="nav-link">À propos</a></li>
       <li><a class="nav-link deroulant">Prestations <i class="fa fa-caret-down" id="prestations" style=" font-size:19px"></i></a>
         <ul id="sous">
-          <li><a href="#">Pack professionnel </a></li>
+          <li><a href="">Pack professionnel </a></li>
           <li><a href="formule-particulier.php">Pack particulier</a></li>
         </ul>
       </li>
