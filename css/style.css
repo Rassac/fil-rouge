@@ -490,7 +490,7 @@ footer a {
   .logo-container {
     text-align: center;
     flex: 2;
-    padding-left: 11rem;
+    padding-left: 5.5rem;
   }
 
   .about-us {
@@ -542,7 +542,7 @@ footer a {
 
 @media only screen and (max-width: 375px) {
   .logo-container {
-    padding-left: 9.75rem;
+    padding-left: 9.4rem;
   }
 
   .nous-vous-securisons {
@@ -552,6 +552,6 @@ footer a {
 
 @media only screen and (max-width: 320px) {
   .logo-container {
-    padding-left: 8rem;
+    padding-left: 2rem;
   }
 }
