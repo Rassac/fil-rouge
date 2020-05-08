@@ -12,7 +12,7 @@
 </head>
 
 <body>
-  <?php include 'inc/header.php'; ?>
+  <?php include 'inc/header.php';?>
   <div class="fond-accueil">
     <div class="nous-vous-securisons">
       <h1>NOUS VOUS SÉCURISONS</h1><br>
