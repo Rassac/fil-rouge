@@ -64,11 +64,11 @@ nav {
   list-style-type: none;
   position: absolute;
   text-decoration: none;
-  padding: 1rem;
+  padding: 2rem 1rem 2rem 1rem;
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
   background-color: rgba(255, 255, 255, 0.72);
-  border-radius: 5px;
+  border-radius: 2.5px;
 }
 
 .sousshow {
@@ -78,6 +78,7 @@ nav {
 #sous li a {
   text-decoration: none;
   color: black;
+  padding: 10px 0 10px 0;
 }
 
 .social {
@@ -516,6 +517,12 @@ footer a {
   .fa-instagram,
   .fa-telegram {
     display: none;
+  }
+
+  .menu-burger {
+    position: absolute;
+    display: block;
+    height: 25rem;
   }
 
   #btn-menu-burger {

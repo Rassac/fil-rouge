@@ -15,6 +15,8 @@ $(document).ready(function () {
 
     // console.log("ici");
   });
+
+  $("#menu-burger").hide();
 });
 
 // function validateForm() {
