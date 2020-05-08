@@ -32,8 +32,8 @@
           aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
       <div class="ce-que-nous-faisons_droite">
-        <button><a href="#">DÉCOUVRIR LE PACK PARTICULIER</a></button>
-        <button><a href="#">DÉCOUVRIR LE PACK PRO</a></button>
+        <button><a href="formule-particulier.php">DÉCOUVRIR LA FORMULE PARTICULIER</a></button>
+        <button><a href="formule-professionnel.php">DÉCOUVRIR LA FORMULE PRO</a></button>
       </div>
     </section>
   </main>

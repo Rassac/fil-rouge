@@ -9,7 +9,7 @@ body {
 }
 
 :root {
-  --main-color: #32c5ff;
+  --main-color: #b620e0;
   --color-green: #33eb67;
 }
 
@@ -209,7 +209,7 @@ main {
 
 .ce-que-nous-faisons_droite button {
   background: none;
-  border: 3px solid rgba(50, 197, 255, 0.5);
+  border: 3px solid rgba(182, 32, 224, 0.5);
   font-size: 1rem;
   cursor: pointer;
   height: 5rem;
@@ -219,7 +219,7 @@ main {
 }
 
 .ce-que-nous-faisons_droite button:hover {
-  border: 3px solid rgba(50, 197, 255, 1);
+  border: 3px solid rgba(182, 32, 224, 1);
 }
 
 .ce-que-nous-faisons_droite button a {
@@ -286,10 +286,7 @@ textarea {
   border: 1px solid #bebebe;
   padding: 7px;
   margin: 0px;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  -ms-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
+  transition: 0.25s;
   outline: none;
 }
 
@@ -542,7 +539,7 @@ footer a {
 
 @media only screen and (max-width: 375px) {
   .logo-container {
-    padding-left: 9.4rem;
+    padding-left: 2rem;
   }
 
   .nous-vous-securisons {
@@ -552,6 +549,6 @@ footer a {
 
 @media only screen and (max-width: 320px) {
   .logo-container {
-    padding-left: 2rem;
+    padding-left: 0.5rem;
   }
 }

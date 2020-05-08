@@ -6,12 +6,14 @@ $(document).ready(function () {
   $("#prestations").click(function () {
     if (ouvert) {
       $("#sous").hide();
+
       ouvert = false;
     } else {
       $("#sous").show();
       ouvert = true;
     }
-    console.log("ici");
+
+    // console.log("ici");
   });
 });
 
