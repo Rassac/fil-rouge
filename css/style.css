@@ -405,6 +405,12 @@ footer a {
   color: #fff;
 }
 
+@media only screen and (max-width: 1024px) {
+  .div-particulier {
+    width: 31.1%;
+  }
+}
+
 @media only screen and (max-width: 768px) {
   .fond-accueil {
     height: 100vh;
@@ -475,6 +481,19 @@ footer a {
 
   .contact {
     height: 90vh;
+  }
+
+  .section-particulier {
+    height: 60rem;
+  }
+
+  .div-particulier {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  .div-contenu h2 {
+    margin: 3rem 0 1rem 0;
   }
 
   footer {
@@ -550,6 +569,31 @@ footer a {
     margin: auto;
   }
 
+  .fond-particulier {
+    flex-wrap: wrap;
+  }
+
+  .formule-particulier {
+    width: 100%;
+    margin-top: 25vh;
+    margin-right: 10vw;
+    height: 50%;
+  }
+
+  .formule-particulier-btn {
+    width: 100%;
+    height: 25%;
+    position: absolute;
+    top: 150px;
+  }
+
+  .formule-particulier-btn img {
+  }
+
+  .section-particulier {
+    height: 70rem;
+  }
+
   .form-style {
     padding: 0px;
     width: 100%;
@@ -573,5 +617,9 @@ footer a {
 @media only screen and (max-width: 320px) {
   .logo-container {
     padding-left: 0.5rem;
+  }
+
+  .formule-particulier {
+    text-align: left;
   }
 }

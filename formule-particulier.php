@@ -37,7 +37,7 @@
         </div>
       </div>
       <div class="div-particulier">
-        <div class="div-img"></div>
+        <div class="div-img"><i class="fa fa-edit" style="font-size:100px"></i></div>
         <div class="div-contenu">
         <h2>EN COURS</h2>
         <ul>
