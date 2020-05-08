@@ -26,9 +26,37 @@
   <main>
     <section class="section-particulier">
       <div class="div-particulier">
+        <div class="div-img"><i class="fa fa-cogs" style="font-size:100px"></i></div>
+        <div class="div-contenu">
+          <h2>AUDIT</h2>
+          <ul>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="div-particulier">
+        <div class="div-img"></div>
+        <div class="div-contenu">
+        <h2>EN COURS</h2>
+        <ul>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="div-particulier">
+        <div class="div-img"><i class="fa fa-comments-o" style="font-size:100px"></i></div>
+        <div class="div-contenu">
+          <h2>ASSISTANCE</h2>
+        </div>
+      </div>
+      <!-- <div class="div-particulier">
         <div class="div-img"></div>
         <div class="div-contenu"></div>
-      </div>
+      </div> -->
     </section>
   </main>
   <?php include 'inc/footer.php'; ?>
