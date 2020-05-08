@@ -1,6 +1,6 @@
 <header>
   <div class="logo-container">
-    <a href="index.php"><img src="img/logo.png" alt="logo"></a>
+    <a href="index.php"><img src="img/logo-long.svg" alt="logo"></a>
   </div>
   <nav>
     <ul class="nav-links">
