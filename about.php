@@ -7,6 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="shortcut icon" type="image/png" href="img/flavicon.png" />
+
   <title>TCOMPUTING - À PROPOS</title>
 </head>
 
