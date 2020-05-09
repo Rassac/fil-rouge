@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="description" content="La première entreprise de sécurisation des données informatique pour tous."/>
+  <meta name="description" content="La première entreprise de sécurisation des données informatique pour tous." />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/style.css">
   <title>TCOMPUTING - FORMULE PROFESSIONNEL</title>
@@ -39,8 +39,8 @@
       <div class="div-particulier">
         <div class="div-img"><i class="fa fa-edit" style="font-size:100px"></i></div>
         <div class="div-contenu">
-        <h2>EN COURS</h2>
-        <ul>
+          <h2>EN COURS</h2>
+          <ul>
             <li>Laboris pariatur veniam magna occaecat nostrud.</li>
             <li>Laboris pariatur veniam magna occaecat nostrud.</li>
             <li>Laboris pariatur veniam magna occaecat nostrud.</li>
