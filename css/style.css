@@ -392,7 +392,7 @@ textarea {
 .section-pro {
 	display: flex;
 	flex-wrap: wrap;
-	height: 35rem;
+	height: 70rem;
 	padding: 1rem;
 }
 
@@ -416,6 +416,7 @@ textarea {
 .div-pro {
 	width: 31.8%;
 	margin-left: 1rem;
+	margin-top: 1rem;
 	padding: 0.5rem;
 	display: flex;
 	flex-wrap: wrap;
@@ -470,6 +471,10 @@ footer a {
 
 	.div-pro {
 		width: 31.1%;
+	}
+
+	.div-pro h2 {
+		font-size: 1.5rem;
 	}
 }
 
@@ -550,7 +555,7 @@ footer a {
 	}
 
 	.section-pro {
-		height: 60rem;
+		height: 120rem;
 	}
 
 	.div-particulier {
@@ -692,7 +697,7 @@ footer a {
 	}
 
 	.section-pro {
-		height: 70rem;
+		height: 140rem;
 	}
 
 	.form-style {

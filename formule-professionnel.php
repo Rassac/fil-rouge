@@ -31,9 +31,7 @@
         <div class="div-contenu">
           <h2>AUDIT</h2>
           <ul>
-            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
-            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
-            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Évaluer les risques</li>
           </ul>
         </div>
       </div>
@@ -52,6 +50,39 @@
         <div class="div-img"><i class="fa fa-comments-o" style="font-size:100px"></i></div>
         <div class="div-contenu">
           <h2>ASSISTANCE</h2>
+        </div>
+      </div>
+      <div class="div-pro">
+        <div class="div-img"><i class="fa fa-check" style="font-size:100px"></i></i></div>
+        <div class="div-contenu">
+          <h2>CERTIFICATION</h2>
+          <ul>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="div-pro">
+        <div class="div-img"><i class="fa fa-wrench" style="font-size:100px"></i></div>
+        <div class="div-contenu">
+          <h2>INTÉGRATION</h2>
+          <ul>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="div-pro">
+        <div class="div-img"><i class="fa fa-area-chart" style="font-size:100px"></i></div>
+        <div class="div-contenu">
+          <h2>GÉRER VOS ACTIFS</h2>
+          <ul>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+          </ul>
         </div>
       </div>
       <!-- <div class="div-pro">
