@@ -7,7 +7,7 @@
 
 ## Présentation de l'entreprise
 
-L'entreprise de mon fil rougeest une entreprise de sécurité informatique du nom de : TCOMPUTING.
+L'entreprise de mon fil rouge est une entreprise de sécurité informatique du nom de : TCOMPUTING.
 
 L'entreprise est située au 41 Rue Neuve d’Argenson 24100 à Bergerac.
 
