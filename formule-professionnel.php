@@ -14,18 +14,51 @@
 
 <body>
   <?php include 'inc/header.php'; ?>
-  <div class="fond-particulier">
-    <div class="formule-particulier">
-      <h1>FORMULE PARTICULIER</h1><br>
+  <div class="fond-pro">
+    <div class="formule-pro">
+      <h1>FORMULE PROFESSIONNEL</h1><br>
       <p>Vous pouvez travailler dans des domaines spécifiques tels que les actualités, vos sources et informations de contact doivent donc rester confidentielles. Votre entreprise évolue dans un marché hautement concurrentiel et vous craignez que votre innovation ne soit à la merci de géants technologiques accédant à vos données professionnelles.</p>
     </div>
-    <div class="formule-particulier-btn">
-      <img src="img/particulier.svg" alt="Icone particulier">
+    <div class="formule-pro-btn">
+      <img src="img/professionnel.svg" alt="Icone particulier">
     </div>
   </div>
 
   <main>
-
+    <section class="section-pro">
+      <div class="div-pro">
+        <div class="div-img"><i class="fa fa-cogs" style="font-size:100px"></i></div>
+        <div class="div-contenu">
+          <h2>AUDIT</h2>
+          <ul>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="div-pro">
+        <div class="div-img"><i class="fa fa-edit" style="font-size:100px"></i></div>
+        <div class="div-contenu">
+          <h2>EN COURS</h2>
+          <ul>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="div-pro">
+        <div class="div-img"><i class="fa fa-comments-o" style="font-size:100px"></i></div>
+        <div class="div-contenu">
+          <h2>ASSISTANCE</h2>
+        </div>
+      </div>
+      <!-- <div class="div-pro">
+        <div class="div-img"></div>
+        <div class="div-contenu"></div>
+      </div> -->
+    </section>
   </main>
   <?php include 'inc/footer.php'; ?>
 

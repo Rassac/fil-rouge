@@ -2,10 +2,7 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
-}
-
-body {
-	font-family: sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 :root {
@@ -14,6 +11,7 @@ body {
 }
 
 header {
+	font-weight: 400;
 	z-index: 1;
 	display: flex;
 	width: 100%;
@@ -33,6 +31,10 @@ header {
 }
 
 #btn-menu-burger {
+	display: none;
+}
+
+#menu-burger {
 	display: none;
 }
 
@@ -78,7 +80,6 @@ nav {
 #sous li a {
 	text-decoration: none;
 	color: black;
-	padding: 10px 0 10px 0;
 }
 
 .social {
@@ -320,6 +321,17 @@ textarea {
 	color: white;
 }
 
+.fond-pro {
+	display: flex;
+	height: 100vh;
+	background-color: var(--main-color);
+	background-image: url(../img/external.jpg);
+	background-blend-mode: multiply;
+	background-attachment: fixed;
+	background-size: cover;
+	color: white;
+}
+
 .formule-particulier {
 	color: #fff;
 	flex: 1;
@@ -328,7 +340,19 @@ textarea {
 	text-align: justify;
 }
 
+.formule-pro {
+	color: #fff;
+	flex: 1;
+	margin-top: 50vh;
+	margin-left: 10vw;
+	text-align: justify;
+}
+
 .formule-particulier h1 {
+	margin-bottom: 2rem;
+}
+
+.formule-pro h1 {
 	margin-bottom: 2rem;
 }
 
@@ -341,7 +365,20 @@ textarea {
 	height: 10rem;
 }
 
+.formule-pro-btn {
+	color: #fff;
+	flex: 1;
+	margin-top: 50vh;
+	justify-content: center;
+	text-align: center;
+	height: 10rem;
+}
+
 .formule-particulier-btn img {
+	height: 100%;
+}
+
+.formule-pro-btn img {
 	height: 100%;
 }
 
@@ -352,11 +389,31 @@ textarea {
 	padding: 1rem;
 }
 
+.section-pro {
+	display: flex;
+	flex-wrap: wrap;
+	height: 35rem;
+	padding: 1rem;
+}
+
 .section-particulier li {
 	font-size: 1rem;
 }
 
+.section-pro li {
+	font-size: 1rem;
+}
+
 .div-particulier {
+	width: 31.8%;
+	margin-left: 1rem;
+	padding: 0.5rem;
+	display: flex;
+	flex-wrap: wrap;
+	border: 2px solid var(--color-green);
+}
+
+.div-pro {
 	width: 31.8%;
 	margin-left: 1rem;
 	padding: 0.5rem;
@@ -408,6 +465,10 @@ footer a {
 
 @media only screen and (max-width: 1024px) {
 	.div-particulier {
+		width: 31.1%;
+	}
+
+	.div-pro {
 		width: 31.1%;
 	}
 }
@@ -488,7 +549,16 @@ footer a {
 		height: 60rem;
 	}
 
+	.section-pro {
+		height: 60rem;
+	}
+
 	.div-particulier {
+		width: 100%;
+		margin-bottom: 1rem;
+	}
+
+	.div-pro {
 		width: 100%;
 		margin-bottom: 1rem;
 	}
@@ -582,7 +652,18 @@ footer a {
 		flex-wrap: wrap;
 	}
 
+	.fond-pro {
+		flex-wrap: wrap;
+	}
+
 	.formule-particulier {
+		width: 100%;
+		margin-top: 25vh;
+		margin-right: 10vw;
+		height: 50%;
+	}
+
+	.formule-pro {
 		width: 100%;
 		margin-top: 25vh;
 		margin-right: 10vw;
@@ -596,10 +677,21 @@ footer a {
 		top: 150px;
 	}
 
+	.formule-pro-btn {
+		width: 100%;
+		height: 25%;
+		position: absolute;
+		top: 150px;
+	}
+
 	.formule-particulier-btn img {
 	}
 
 	.section-particulier {
+		height: 70rem;
+	}
+
+	.section-pro {
 		height: 70rem;
 	}
 
@@ -629,6 +721,10 @@ footer a {
 	}
 
 	.formule-particulier {
+		text-align: left;
+	}
+
+	.formule-pro {
 		text-align: left;
 	}
 }
