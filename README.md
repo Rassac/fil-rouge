@@ -1,6 +1,9 @@
 # Les fichiers open source pour le projet fil rouge 🧶
 
-![Logo TCOMPUTING](img/logo.png)
+<div id="tcomputing-logo" align="center">
+    <br />
+    <img src="img/logo.png" alt="VSCodium Logo" width="200"/>
+</div>
 
 ## Présentation de l'entreprise
 
@@ -73,4 +76,4 @@ Je n'ai pas trouvé beacoup de concurrence sur ce marché qui se rapproche le pl
 ## Les objectifs
 
 **Les objectifs à court terme** sont de contactez le maximum de TPE PME (B2C et B2B) de la région. **Les objectifs à long termes** sont de contactez les plus grandes entreprises nationales et internationales.
-De plus, les objectifs marketing sont de faire plus de 100 audit par an.
+De plus, **les objectifs marketing** sont de faire plus de 100 audit par an.
