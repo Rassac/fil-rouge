@@ -13,7 +13,7 @@
 </head>
 
 <body>
-  <?php include 'inc/header.php'; ?>
+  <?php include 'php/header.php'; ?>
   <div class="fond-pro">
     <div class="formule-pro">
       <h1>FORMULE PROFESSIONNEL</h1><br>

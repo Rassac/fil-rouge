@@ -13,7 +13,7 @@
 </head>
 
 <body>
-  <?php include 'inc/header.php'; ?>
+  <?php include 'php/header.php'; ?>
   <div class="fond-particulier">
     <div class="formule-particulier">
       <h1>FORMULE PARTICULIER</h1><br>

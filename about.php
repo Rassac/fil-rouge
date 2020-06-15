@@ -13,7 +13,7 @@
 </head>
 
 <body>
-  <?php include 'inc/header.php'; ?>
+  <?php include 'php/header.php'; ?>
   <div class="fond-about">
     <div class="about-us">
       <h1>À PROPOS DE NOUS</h1><br>
