@@ -1,4 +1,4 @@
-# Les fichiers open source pour le projet fil rouge 🧶
+# 🧶 Les fichiers open source pour le projet fil rouge 🧶
 
 <div id="tcomputing-logo" align="center">
     <br />
@@ -17,34 +17,34 @@ L'entreprise est située au 41 Rue Neuve d’Argenson 24100 à Bergerac.
 
 ### Formule particulier (Vous n’avez peut-être rien à cacher, mais cela ne signifie pas que cela vous convienne que chaque clic ou que vous effectuez est enregistré et vendu à une entreprise qui peut gagner des millions sur votre dos)
 
-- **Audit du client 📖**
-  - **Navigateur 🧭**
+- **📖 Audit du client**
+  - **🧭 Navigateur**
     - N'utilisez pas le navigateur Google Chrome, mais utilisez Firefox pour naviguer en toute sécurité sans aucun inconvénient.
   - Applications de messagerie instantané 💬
     - N'utilisez pas Messenger, mais utilisez des solutions libre et chiffré de bout en bout telles que Signal.
   - Sécuriser le système d’exploitation
     - Protégez Windows 10 en modifiant les paramètres et fonctions cachés. Modifiez les paramètres dans le BIOS pour éviter de démarrer à partir d'une clé externe.
     - Possibilité de passer sur un système d'exploitation libre.
-- **Conseils 👍🏼**
-- **Assitance 🕵🏻‍♂️**
+- **👍 Conseils**
+- **🤝 Assitance**
 
 ### Formule professionnel (Vous pouvez travailler dans des domaines spécifiques tels que les actualités, vos sources et informations de contact doivent donc rester confidentielles. Votre entreprise évolue dans un marché hautement concurrentiel et vous craignez que votre innovation ne soit à la merci de géants technologiques accédant à vos données professionnelles)
 
-- **Audit de l'entreprise 📖**
+- **📖 Audit de l'entreprise**
   - Observez ce que l'entreprise utilise actuellement et apportez des modifications si nécessaire.
-- **Installation de Linux sur les ordinateurs 💻**
+- **💻 Installation de Linux sur les ordinateurs**
   - Utilisez un système d'exploitation libre et sécurisé tel que Fedora.
-- **Chiffrement des disques dur 💾**
+- **💾 Chiffrement des disques dur**
   - Chiffrez le disque dur pour éviter un accès facile aux données et éviter le boot sur des clés USB.
-- **Clé Linux Tails pour accéder aux sources du DeepWeb 🕸**
+- **🕸 Clé Linux Tails pour accéder aux sources du DeepWeb**
   - Création d'une clé Tails pour accéder aux articles des liens oignon du DeepWeb afin que les journalistes puissent mener des recherches privées et éventuellement utiliser la clé PGP pour crypter la source des e-mails et mener des conversations privées.
-- **Sécuriser ses données sur des serveurs centralisés 🔒**
+- **🔒 Sécuriser ses données sur des serveurs centralisés**
   - Utilisez NextCloud pour créer un serveur NAS.
-- **Discuter en entreprise 💬**
+- **💬 Discuter en entreprise**
   - Utiliser un moyen de communication chiffré de bout en bout et libre.
-- **Installation de /e/ sur les téléphones 📱**
+- **📱 Installation de /e/ sur les téléphones**
   - Installation d’un système d’exploitation libre et dégoogleisé sur les smartphones compatible.
-- **Utilisation et explication 💁🏻‍♂️**
+- **💁 Utilisation et explication**
   - Instructions complètes et détaillées sur l'application et l'utilisation du système.
 
 ## ADN et valeurs de l'entreprise
@@ -53,13 +53,13 @@ L'ADN et les valeurs de l'entrerprise sont transparent, sérieux et sécurisé.
 
 ## Cible et rayon d'action
 
-**Particuliers 🙋🏻‍♂️** : personnes qui souhaitent protéger les données et/ou qui ne dépendent plus des GAFAM s'inquiètent du fait que leurs données leur soient confiées.
+**🙇 Particuliers** : personnes qui souhaitent protéger les données et/ou qui ne dépendent plus des GAFAM s'inquiètent du fait que leurs données leur soient confiées.
 
-**Professionnels 👩🏼‍💼** : patrons de grandes entreprises et/ou journalistes qui souhaitent communiquer via des méthodes sécurisées et cryptées sans se soucier du vol de leurs données. Les journalistes ont accès à des ressources fiables et peuvent les prévisualiser sur DeepWeb.
+**👩‍💼 Professionnels** : patrons de grandes entreprises et/ou journalistes qui souhaitent communiquer via des méthodes sécurisées et cryptées sans se soucier du vol de leurs données. Les journalistes ont accès à des ressources fiables et peuvent les prévisualiser sur DeepWeb.
 
 - **Cibles principales**
   - TPE et PME cherchant à sécuriser leurs données.
-- **Coeur de cible 🎯**
+- **🎯 Coeur de cible**
   - Grandes entreprises et métiers sensibles (avocat, journaliste).
 - **Cibles secondaires**
   - Particuliers cherchant à se protéger sur internet et sécuriser ses données.
