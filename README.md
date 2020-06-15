@@ -20,12 +20,12 @@ L'entreprise est située au 41 Rue Neuve d’Argenson 24100 à Bergerac.
 - **📖 Audit du client**
   - **🧭 Navigateur**
     - N'utilisez pas le navigateur Google Chrome, mais utilisez Firefox pour naviguer en toute sécurité sans aucun inconvénient.
-  - Applications de messagerie instantané 💬
+  - **📧 Applications de messagerie instantané.**
     - N'utilisez pas Messenger, mais utilisez des solutions libre et chiffré de bout en bout telles que Signal.
-  - Sécuriser le système d’exploitation
+  - **👨🏾‍💻 Sécuriser le système d’exploitation**
     - Protégez Windows 10 en modifiant les paramètres et fonctions cachés. Modifiez les paramètres dans le BIOS pour éviter de démarrer à partir d'une clé externe.
     - Possibilité de passer sur un système d'exploitation libre.
-- **👍 Conseils**
+- **👍🏼 Conseils**
 - **🤝 Assitance**
 
 ### Formule professionnel (Vous pouvez travailler dans des domaines spécifiques tels que les actualités, vos sources et informations de contact doivent donc rester confidentielles. Votre entreprise évolue dans un marché hautement concurrentiel et vous craignez que votre innovation ne soit à la merci de géants technologiques accédant à vos données professionnelles)
