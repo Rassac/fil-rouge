@@ -16,6 +16,13 @@ $(document).ready(function () {
 		// console.log("ici");
 	});
 
+	var btnBurger = $(".btn-burger");
+	var navMenu = $("#menu-nav");
+
+	btnBurger.click(function () {
+		navMenu.toggleClass("is-visible");
+	});
+
 	// $("#menu-burger").hide();
 });
 

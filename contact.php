@@ -13,6 +13,13 @@
 
 <body>
   <?php include 'php/header.php'; ?>
+  <div class="fond-contact">
+    <div class="about-us">
+      <h1>CONTACTEZ-NOUS</h1><br>
+      <p>Pour satisfaire au mieux votre demande, nous nous engageons à répondre dans les meilleurs délais et aussi rapidement que possible.</p><br>
+      <p>Également, nous sommes à votre écoute pour optimiser notre site web. Vous ne trouvez pas de réponse à l’une de vos question ? Vous souhaitez que l’on rajoute une documentation sur un logiciel ou une extension particulière ? Discutons-en ensemble !</p>
+    </div>
+  </div>
   <main>
     <section class="contact">
       <h1>Formulaire de contact</h1>
@@ -52,7 +59,6 @@
             </td>
           </tr>
           <tr>
-            <td></td>
             <td>
               <input type="submit" value="Envoyer">
               <input type="reset" value="Réinitialiser">
@@ -62,7 +68,7 @@
       </form>
     </section>
   </main>
-  <?php include 'inc/footer.php'; ?>
+  <?php include 'php/footer.php'; ?>
 
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script src="js/main.js"></script>

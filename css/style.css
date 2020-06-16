@@ -73,6 +73,10 @@ nav {
 	border-radius: 2.5px;
 }
 
+.btn-burger {
+	display: none;
+}
+
 .sousshow {
 	display: block;
 }
@@ -107,6 +111,17 @@ nav {
 	height: 100vh;
 	background-color: var(--main-color);
 	background-image: url(../img/capuche.jpg);
+	background-blend-mode: multiply;
+	background-attachment: fixed;
+	background-size: cover;
+	color: white;
+}
+
+.fond-contact {
+	display: flex;
+	height: 100vh;
+	background-color: var(--main-color);
+	background-image: url(../img/contact_us.jpg);
 	background-blend-mode: multiply;
 	background-attachment: fixed;
 	background-size: cover;
@@ -269,8 +284,10 @@ main {
 
 .form-style input[type="submit"]:hover,
 .form-style input[type="reset"]:hover {
-	border: var(--main-color);
 	box-shadow: none;
+	color: whitesmoke;
+	cursor: pointer;
+	background: var(--main-color);
 	-moz-box-shadow: none;
 	-webkit-box-shadow: none;
 }
@@ -303,6 +320,7 @@ textarea {
 	-webkit-box-shadow: 0 0 8px var(--main-color);
 	box-shadow: 0 0 8px var(--main-color);
 	border: 1px solid var(--main-color);
+	color: whitesmoke;
 }
 
 .error {
@@ -598,15 +616,6 @@ footer a {
 		display: none;
 	}
 
-	#menu-burger {
-		height: 50vh;
-		background: lightblue;
-	}
-
-	#btn-menu-burger {
-		display: block;
-	}
-
 	.social {
 		flex: 2;
 	}
@@ -615,6 +624,14 @@ footer a {
 		text-align: center;
 		flex: 2;
 		padding-left: 5.5rem;
+	}
+
+	#menu-nav {
+		display: none;
+	}
+
+	#menu-nav.is-visible {
+		display: block;
 	}
 
 	.about-us {
@@ -637,6 +654,13 @@ footer a {
 		width: 100%;
 		padding: 2.5rem 0;
 		text-align: left;
+	}
+
+	.btn-burger {
+		display: block;
+		background: none;
+		border: none;
+		margin-left: 1rem;
 	}
 
 	.about-div p,
