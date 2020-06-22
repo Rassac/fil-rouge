@@ -71,7 +71,6 @@ Je n'ai pas trouvé beacoup de concurrence sur ce marché qui se rapproche le pl
 - [Digital Security](https://www.digital.security/fr/)
 - [Advens](https://www.advens.fr/fr)
 - [Aquitaine Informatque](https://www.aquitaine-informatique.com)
-- [National Cyber League](https://nationalcyberleague.org/)
 
 ## Les objectifs
 
