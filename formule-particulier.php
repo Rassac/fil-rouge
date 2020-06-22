@@ -17,7 +17,7 @@
   <div class="fond-particulier">
     <div class="formule-particulier">
       <h1>FORMULE PARTICULIER</h1><br>
-      <p>Vous pouvez travailler dans des domaines spécifiques tels que les actualités, vos sources et informations de contact doivent donc rester confidentielles. Votre entreprise évolue dans un marché hautement concurrentiel et vous craignez que votre innovation ne soit à la merci de géants technologiques accédant à vos données professionnelles.</p>
+      <p>Vous n'avez peut-être rien à cacher, mais cela ne signifie pas qu'il vous convient d'enregistrer chaque clic ou glissement sur votre smartphone ou votre ordinateur et de le vendre à des entreprises qui peuvent gagner des millions sur votre dos.</p>
     </div>
     <div class="formule-particulier-btn">
       <img src="img/particulier.svg" alt="Icone particulier">

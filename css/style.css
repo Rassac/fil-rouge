@@ -665,7 +665,7 @@ footer a {
 	}
 
 	.btn-burger {
-		display: block;
+		display: initial;
 		background: none;
 		border: none;
 		margin-left: 1rem;

@@ -18,7 +18,7 @@
   </nav>
   <div class="social">
     <a href="#"><i class="fa fa-facebook" style="font-size:24px"></i></a>
-    <a href="#"><i class="fa fa-instagram" style="font-size:24px"></i></a>
+    <!-- <a href="#"><i class="fa fa-instagram" style="font-size:24px"></i></a> -->
     <a href="#"><i class="fa fa-telegram" style="font-size:24px"></i></a>
   </div>
 </header>
