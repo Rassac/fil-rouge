@@ -24,9 +24,9 @@ header {
 	position: fixed;
 }
 
-header button {
+/* header button {
 	display: none;
-}
+} */
 
 .logo-container,
 .nav-links,
@@ -602,9 +602,9 @@ footer a {
 }
 
 @media only screen and (max-width: 425px) {
-	header button {
+	/* header button {
 		display: block;
-	}
+	} */
 
 	p {
 		font-size: 14px;
