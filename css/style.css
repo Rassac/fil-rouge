@@ -610,10 +610,6 @@ footer a {
 		height: auto;
 	}
 
-	.logo-container {
-		width: 75%;
-	}
-
 	p {
 		font-size: 14px;
 	}
@@ -626,6 +622,7 @@ footer a {
 	.nav-link {
 		flex: 0;
 		padding-bottom: 1rem;
+		padding-top: 1rem;
 	}
 
 	.social .fa-facebook,
@@ -641,7 +638,7 @@ footer a {
 	.logo-container {
 		text-align: center;
 		flex: 2;
-		padding-left: 5.5rem;
+		width: 100%;
 	}
 
 	#menu-nav {
@@ -679,7 +676,7 @@ footer a {
 		background: none;
 		border: none;
 		float: right;
-		margin-right: 1rem;
+		width: 100%;
 	}
 
 	.about-div p,
