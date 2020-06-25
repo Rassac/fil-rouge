@@ -20,8 +20,8 @@ $(document).ready(function () {
 	var navMenu = $("#menu-nav");
 
 	btnBurger.click(function () {
-		navMenu.toggleClass("is-visible");
-		// "navMenu".slideToggle();
+		// $("#menu-nav").toggleClass("is-visible");
+		$("#menu-nav").slideToggle();
 
 		console.log("ici");
 	});
