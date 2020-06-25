@@ -28,15 +28,28 @@
   <main>
     <section class="ce-que-nous-faisons">
       <div class="ce-que-nous-faisons_gauche">
-        <h1>CE QUE NOUS FAISONS</h1><br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-          aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <h1>L’importance de la sécurité informatique</h1><br>
+        <p>La création d'un système de sécurité informatique est nécessaire pour les entreprises car l'utilisation d'Internet devient incontournable. Il permet aux employés de travailler confortablement et facilement, en protégeant toutes les données afin qu'elles ne tombent pas entre de mauvaises mains. Découvrez pourquoi la sécurité informatique joue un rôle important dans le bon fonctionnement d'un individu ou d'une entreprise.</p>
       </div>
       <div class="ce-que-nous-faisons_droite">
         <button><a href="formule-particulier.php">DÉCOUVRIR LA FORMULE PARTICULIER</a></button>
         <button><a href="formule-professionnel.php">DÉCOUVRIR LA FORMULE PRO</a></button>
       </div>
     </section>
+      <section class="informations">
+        <h1>Qu’est-ce qu’un système de sécurité informatique ?</h1>
+        <p>Les entreprises gardent des informations sensibles et importantes qui ne doivent pas être divulguées à n’importe qui. Un système de sécurité informatique protège toutes ces données. Il est mis en place par des responsables nommés par les dirigeants.</p>
+      </section>
+      <section class="informations">
+        <h1>Quels sont ses avantages pour une entreprise ?</h1>
+        <ul>
+          <li>Comme les logiciels malveillants sont de plus en plus nombreux et performants, l’utilisation d’un système de sécurisation informatique limite les risques de perte et d’altération de données et lutte ainsi contre les importants dégâts financiers qui peuvent en résulterComme les logiciels malveillants deviennent de plus en plus nombreux et plus efficaces, l'utilisation d'un système de sécurité informatique réduit le risque de perte et de détérioration de données et combat ainsi les graves pertes financières qui peuvent survenir.</li>
+          <li>L'entreprise est protégée contre les problèmes de piratage et d'espionnage. Par conséquent, la confidentialité des données et des informations est respectée. Certains programmes avertissent même des intrusions suspectes</li>
+          <li>L'entreprise devient plus productive car les employés ont facilement accès aux outils et données informatiques</li>
+          <li> Pour une entreprise de commerce en ligne, l’instauration d’un système de sécurité informatique fiable favorise la confiance des potentiels acheteurs et permet d’élargir la clientèle </li>
+          <li>Enfin, le système de sécurisation informatique joue un grand rôle dans l’image de fiabilité et de stabilité d’une entreprise. Les collaborateurs et éventuels partenaires sont sûrs que les données mises à votre disposition sont protégées et restent authentiques pour assurer la réussite de tous les projets.</li>
+        </ul>
+      </section>
   </main>
   <?php include 'php/footer.php'; ?>
 

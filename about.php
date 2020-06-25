@@ -37,14 +37,12 @@
       </div>
       <div class="about-div">
         <h1>CERTIFICATIONS ET PARTENARIATS</h1>
-        <p><strong>ISO/IEC 27000</strong> : norme la plus connue de cette famille qui n’en compte pas moins d’une douzaine. Elle spécifie les exigences relatives aux systèmes de management de la sécurité des informations (SMSI). La mise en œuvre des
+        <p><strong>ISO/IEC 27000</strong> : Norme la plus connue de cette famille qui n’en compte pas moins d’une douzaine. Elle spécifie les exigences relatives aux systèmes de management de la sécurité des informations (SMSI). La mise en œuvre des
           normes de cette famille par tout type d’organisation facilite le management de la sécurité d’actifs sensibles tels que les données financières, les documents de propriété intellectuelle, les données relatives au personnel ou les
           informations confiées par des tiers.
         </p><br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-          aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-          aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><br>
+        <p> <strong>RGPD</strong> : Le règlement no 2016/679, dit règlement général sur la protection des données, est un règlement de l'Union européenne qui constitue le texte de référence en matière de protection des données à caractère personnel. Il renforce et unifie la protection des données pour les individus au sein de l'Union européenne.</p><br>
+        <p><strong>PCI-DSS</strong> : La norme de sécurité de l’industrie des cartes de paiement est un standard de sécurité des données qui s'applique aux différents acteurs de la chaîne monétique. La norme PCI DSS est établie par les cinq principaux réseaux cartes et est gérée par le Conseil des normes de sécurité PCI. Ce standard a été créé afin d’augmenter le contrôle des informations du titulaire de la carte dans le but de réduire l'utilisation frauduleuse des instruments de paiement.</p><br>
       </div>
       <div class="about-div">
         <h1>CE QUE NOUS FAISONS PAS</h1>

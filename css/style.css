@@ -182,7 +182,6 @@ nav {
 
 main {
 	width: 75vw;
-	height: auto;
 	margin: 0 auto;
 }
 
@@ -205,6 +204,10 @@ main {
 	width: 50%;
 	padding: 5rem 0;
 	text-align: justify;
+}
+
+.infos {
+	display: flex;
 }
 
 .about-div h1 {
@@ -295,6 +298,19 @@ main {
 	background: var(--main-color);
 	-moz-box-shadow: none;
 	-webkit-box-shadow: none;
+}
+
+.informations {
+	width: 100%;
+	margin-bottom: 3rem;
+}
+
+.informations h1 {
+	margin-bottom: 2rem;
+}
+
+.informations li {
+	margin-bottom: 1rem;
 }
 
 .form-style .field-textarea {

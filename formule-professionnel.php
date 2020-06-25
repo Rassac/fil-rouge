@@ -29,9 +29,13 @@
       <div class="div-pro">
         <div class="div-img"><i class="fa fa-cogs" style="font-size:100px"></i></div>
         <div class="div-contenu">
-          <h2>AUDIT</h2>
+        <h2>AUDIT</h2>
           <ul>
-            <li>Évaluer les risques</li>
+            <li>Évaluation du niveau de sécurité global et vérifier la conformité aux bonnes pratiques.</li>
+            <li>Vérification du niveau de sécurité technique de l'infrastructure et respect des normes ou réglementations.</li>
+            <li>Vérification de la sécurité ou la conformité des composants conformément aux normes internes ou réglementaires.</li>
+            <li>Identifiez tous les risques de sécurité et les pratiques de développement qui peuvent être améliorés à partir du code source.</li>
+            <li>Tester le niveau de sécurité du système et évaluez les risques associés à la vulnérabilité.</li>
           </ul>
         </div>
       </div>
@@ -57,9 +61,7 @@
         <div class="div-contenu">
           <h2>CERTIFICATION</h2>
           <ul>
-            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
-            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
-            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Respecter les bonnes pratiques et les exigences internes ou réglementaires (ISO 2700x, PCI-DSS, GDPR, etc.).</li>
           </ul>
         </div>
       </div>
