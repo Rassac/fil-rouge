@@ -407,7 +407,7 @@ textarea {
 .section-particulier {
 	display: flex;
 	flex-wrap: wrap;
-	height: 35rem;
+	height: 40rem;
 	padding: 1rem;
 }
 
@@ -602,16 +602,17 @@ footer a {
 }
 
 @media only screen and (max-width: 425px) {
-	/* header button {
+	header {
 		display: block;
-	} */
+		height: auto;
+	}
+
+	.logo-container {
+		width: 75%;
+	}
 
 	p {
 		font-size: 14px;
-	}
-
-	.first-nav {
-		display: none;
 	}
 
 	.nav-link {
@@ -619,7 +620,7 @@ footer a {
 	}
 
 	.social .fa-facebook,
-	.social .fa-instagram,
+	.social .fa-linkedin,
 	.social .fa-telegram {
 		display: none;
 	}
@@ -638,7 +639,7 @@ footer a {
 		display: none;
 	}
 
-	#menu-nav.is-visible {
+	.is-visible {
 		display: block;
 	}
 

@@ -31,20 +31,22 @@
         <div class="div-contenu">
           <h2>AUDIT</h2>
           <ul>
-            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
-            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
-            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Évaluation du niveau de sécurité global et vérifier la conformité aux bonnes pratiques.</li>
+            <li>Vérification du niveau de sécurité technique de l'infrastructure et respect des normes ou réglementations.</li>
+            <li>Vérification de la sécurité ou la conformité des composants conformément aux normes internes ou réglementaires.</li>
+            <li>Identifiez tous les risques de sécurité et les pratiques de développement qui peuvent être améliorés à partir du code source.</li>
+            <li>Tester le niveau de sécurité du système et évaluez les risques associés à la vulnérabilité.</li>
           </ul>
         </div>
       </div>
       <div class="div-particulier">
         <div class="div-img"><i class="fa fa-edit" style="font-size:100px"></i></div>
         <div class="div-contenu">
-          <h2>EN COURS</h2>
+          <h2>INTÉGRATION</h2>
           <ul>
-            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
-            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
-            <li>Laboris pariatur veniam magna occaecat nostrud.</li>
+            <li>Application des changements relevés pendant l'audit</li>
+            <li></li>
+            <li></li>
           </ul>
         </div>
       </div>
@@ -52,6 +54,12 @@
         <div class="div-img"><i class="fa fa-comments-o" style="font-size:100px"></i></div>
         <div class="div-contenu">
           <h2>ASSISTANCE</h2>
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
         </div>
       </div>
       <!-- <div class="div-particulier">

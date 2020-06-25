@@ -21,6 +21,9 @@ $(document).ready(function () {
 
 	btnBurger.click(function () {
 		navMenu.toggleClass("is-visible");
+		// "navMenu".slideToggle();
+
+		console.log("ici");
 	});
 
 	// $("#menu-burger").hide();
