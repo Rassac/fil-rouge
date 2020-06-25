@@ -621,8 +621,8 @@ footer a {
 
 	.nav-link {
 		flex: 0;
-		padding-bottom: 1rem;
-		padding-top: 1rem;
+		margin-bottom: 1rem;
+		margin-top: 1rem;
 	}
 
 	.social .fa-facebook,
@@ -639,6 +639,7 @@ footer a {
 		text-align: center;
 		flex: 2;
 		width: 100%;
+		margin-top: 1rem;
 	}
 
 	#menu-nav {
@@ -677,6 +678,7 @@ footer a {
 		border: none;
 		float: right;
 		width: 100%;
+		margin-bottom: 1rem;
 	}
 
 	.about-div p,
