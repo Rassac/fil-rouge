@@ -7,7 +7,7 @@
 
 :root {
 	--main-color: #b620e0;
-	--color-green: #33eb67;
+	--color-green: rgb(51, 235, 103);
 }
 
 header {
@@ -97,6 +97,24 @@ nav {
 
 .social a {
 	color: black;
+}
+
+.contact {
+	width: 50%;
+}
+
+.contact-adresse img {
+	height: 200px;
+	position: relative;
+	/* top: 270px; */
+	display: flex;
+	margin-bottom: 1rem;
+	text-align: center;
+	margin-top: 50%;
+}
+
+.flex {
+	display: flex;
 }
 
 .fond-accueil {
@@ -234,7 +252,7 @@ main {
 
 .ce-que-nous-faisons_droite button {
 	background: none;
-	border: 3px solid rgba(182, 32, 224, 0.5);
+	border: 3px solid rgba(51, 235, 103, 0.5);
 	font-size: 1rem;
 	cursor: pointer;
 	height: 5rem;
@@ -244,7 +262,7 @@ main {
 }
 
 .ce-que-nous-faisons_droite button:hover {
-	border: 3px solid rgba(182, 32, 224, 1);
+	border: 3px solid rgb(51, 235, 103);
 }
 
 .ce-que-nous-faisons_droite button a {
@@ -284,7 +302,7 @@ main {
 
 .form-style input[type="submit"],
 .form-style input[type="reset"] {
-	border: 2px solid var(--main-color);
+	border: 2px solid var(--color-green);
 	padding: 8px 15px 8px 15px;
 	background: none;
 	transition: 0.2s;
@@ -295,7 +313,7 @@ main {
 	box-shadow: none;
 	color: whitesmoke;
 	cursor: pointer;
-	background: var(--main-color);
+	background: var(--color-green);
 	-moz-box-shadow: none;
 	-webkit-box-shadow: none;
 }
@@ -337,10 +355,10 @@ textarea {
 .form-style input[type="text"]:focus,
 .form-style input[type="email"]:focus,
 .form-style textarea:focus {
-	-moz-box-shadow: 0 0 8px var(--main-color);
-	-webkit-box-shadow: 0 0 8px var(--main-color);
-	box-shadow: 0 0 8px var(--main-color);
-	border: 1px solid var(--main-color);
+	-moz-box-shadow: 0 0 8px var(--color-green);
+	-webkit-box-shadow: 0 0 8px var(--color-green);
+	box-shadow: 0 0 8px var(--color-green);
+	border: 1px solid var(--color-green);
 	color: whitesmoke;
 }
 

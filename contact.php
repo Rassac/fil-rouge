@@ -23,6 +23,7 @@ content="Une question ? Des améliorqtions ? Envoyez-nous un message !">
     </div>
   </div>
   <main>
+  <div class="flex">
     <section class="contact">
       <h1>Formulaire de contact</h1>
       <form name="myForm" action="/file.php" onsubmit="return validateForm()" method="post">
@@ -69,6 +70,16 @@ content="Une question ? Des améliorqtions ? Envoyez-nous un message !">
         </table>
       </form>
     </section>
+    <section class="contact-adresse">
+      <img src="img/logo.png" alt="logo">
+      <p><i class="fa fa-map-pin" style="font-size:24px"></i>   41 Rue Neuve d’Argenson <br>
+24100 Bergerac</p><br>
+<p><i class="fa fa fa-phone" style="font-size:24px"></i>   05.67.89.01.23 <br>
+    06.67.89.01.23</p>
+    <i class="fa fa-globe" style="font-size:24px"></i>   tcomputing@contact.fr <br>
+www.tcomputing.fr</p>
+    </section>
+    </div>
   </main>
   <?php include 'php/footer.php'; ?>
 
